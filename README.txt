@@ -1,6 +1,6 @@
 The code for generating my data can be run with the following steps:
 
-1. Download the repo containing the relevant code and data from // Github URL
+1. Download the repo containing the relevant code and data from https://github.com/ZPears/supervised_learning
 2. (Optional) Type `virtualenv env` to start a new virtual environment in the repo directory (with path to your python3 version if necessary).
 3. `source env/bin/activate` to start the virtual environment.
 4. Run `pip install -r requirements.txt` to install all the relevant python packages.
